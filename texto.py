@@ -13,7 +13,7 @@ texto.config(
 )
 texto.pack()
 
-word="sos un capo jefe"
+apellido="fernandez"
 texto =Label(ventana,text="soy ignacio Fernandez")
 texto.pack()
 texto.config(
